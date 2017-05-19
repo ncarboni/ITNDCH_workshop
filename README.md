@@ -23,4 +23,7 @@ In order to have a unique working environment we set up a vagrant virtual machin
 
 In order to use 3M it is necessary to register to the service. You can do it at this address: [**http://139.91.183.3/3M/SignUp?lang=en**](http://139.91.183.3/3M/SignUp?lang=en)
 
-[**More to be added**]
+**We will keep updating the repository and the Wiki adding the slides and information on the commands and methodologies used**
+
+
+[*More to be added*]
