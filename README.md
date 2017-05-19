@@ -1,7 +1,7 @@
 # Workflow for the Integration of Heritage Digital Resources
 
 
-The Workflow for the Integration of Heritage Digital Resources is jointly offered by [MAP CNRS](http://map.cnrs.fr) and [FORTH-ICS](http://www.ics.forth.gr/).
+The Workflow for the Integration of Heritage Digital Resources is jointly offered by [MAP CNRS](http://map.cnrs.fr) and [FORTH-ICS](http://www.ics.forth.gr/) and it is will take place the 23/05/2017 - 14:00 @ [ITN-DCH Final Conference](http://digitalheritage2017.eu)
 
 The aim of the workshop is to introduce the participants to the concept of linked data and to a selection of data curation tools that can be used for re-using and integrating data from across data silos, including a demonstration of how to semantically map them.
 The tutorial will make use of: 
