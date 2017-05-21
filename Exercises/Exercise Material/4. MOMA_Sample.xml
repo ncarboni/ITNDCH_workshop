@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <ObjectID>29830</ObjectID>
+        <Classification>Illustrated Book</Classification>
+        <DateAcquired>1964</DateAcquired>
+        <Title>&quot;Away&quot; (chapter title, page 73) from Corps Perdu</Title>
+        <object_creation_date_start>1949</object_creation_date_start>
+        <object_creation_date_end>1950</object_creation_date_end>
+        <Place>Vallauris</Place>
+        <creation_geonames_id>http://sws.geonames.org/2970962</creation_geonames_id>
+        <Artist>Pablo Picasso</Artist>
+        <Wikidata_id>https://www.wikidata.org/wiki/Q5593</Wikidata_id>
+        <Medium>Aquatint</Medium>
+        <CreditLine>The Louis E. Stern Collection</CreditLine>
+        <URL>http://www.moma.org/collection/works/29830</URL>
+        <ThumbnailURL>http://www.moma.org/media/W1siZiIsIjE3NDI3MCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=0056a6f762632f65</ThumbnailURL>
+        <Museum>Museum of Modern Art</Museum>
+        <museum_id>https://www.wikidata.org/wiki/Q188740</museum_id>
+        <Museum_Address>11 W 53rd St, New York, NY 10019, USA</Museum_Address>
+        <Latitude>40.761417</Latitude>
+        <Longitude>-73.9771203</Longitude>
+    </row>
+ 
+</root>

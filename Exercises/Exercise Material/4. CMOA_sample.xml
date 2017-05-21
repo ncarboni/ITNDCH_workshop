@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>cmoa:things/8edfa1d6-22f4-457c-8f8f-914e68a6cc2a</id>
+    <title>Untitled</title>
+    <full_name>Pablo Picasso</full_name>
+    <Wikidata_iD>https://www.wikidata.org/wiki/Q5593</Wikidata_iD>
+    <creation_date_earliest>1957</creation_date_earliest>
+    <creation_date_latest>1963</creation_date_latest>
+    <creation_place>Mougins</creation_place>
+    <date_acquired>2007-02-01</date_acquired>
+    <department>Contemporary Art</department>
+    <medium>inscribed lithograph</medium>
+    <credit_line>Gift of Mr. and Mrs. Leon Arkus</credit_line>
+    <web_url>"http://www.cmoa.org/CollectionDetail.aspx?item=38029</web_url>
+    <classification>Prints</classification>
+    <provenance_text>The donor, Pittsburgh</provenance_text>
+    <provenance_location>Pittsburgh</provenance_location>
+    <geonames_provenance_id>http://sws.geonames.org/5206393</geonames_provenance_id>
+    <longitude_geonames>-79.97626</longitude_geonames>
+    <latitude_geonames>40.43962</latitude_geonames>
+    <Museum>Carnegie Museum of Art</Museum>
+    <Museum_id>https://www.wikidata.org/wiki/Q1043967</Museum_id>
+    <Museum_address>4400 Forbes Ave, Pittsburgh, PA 15213,USA</Museum_address>
+    <lng>-79.9495881</lng>
+    <lat>40.4435041</lat>
+  </row>
+  <row>
+    <id>cmoa:things/c20f15d2-18f0-4f62-866a-ac383809ce96</id>
+    <title>Minotaure aveugle guidé par une filette dans la nuit (Blind Minotaur Guided by a Young Girl in the Night)</title>
+    <full_name>Pablo Picasso</full_name>
+    <Wikidata_iD>https://www.wikidata.org/wiki/Q5593</Wikidata_iD>
+    <creation_date_earliest>1934</creation_date_earliest>
+    <creation_date_latest>1934</creation_date_latest>
+    <creation_place>Cannes</creation_place>
+    <date_acquired>2013-05-23</date_acquired>
+    <department>Fine Arts</department>
+    <medium>aquatint, scraper, drypoint, and burin on Montval paper</medium>
+    <credit_line>Alan G. and Jane A. Lehman Fund, Robert S. Waters Charitable Trust Fund, and Charles J. Rosenbloom Fund</credit_line>
+    <web_url>"http://www.cmoa.org/CollectionDetail.aspx?item=101444</web_url>
+    <classification>Prints</classification>
+    <provenance_text>Ambroise Vollard, Paris\nHenri M. Petiet, Paris (from the Vollard Estate)
+Heirs of Henri M. Petiet, Paris
+Marc Rosen Fine Art, Ltd., New York</provenance_text>
+    <provenance_location>Paris</provenance_location>
+    <geonames_provenance_id>http://sws.geonames.org/2968815</geonames_provenance_id>
+    <longitude_geonames>2.3486</longitude_geonames>
+    <latitude_geonames>48.8534</latitude_geonames>
+    <Museum>Carnegie Museum of Art</Museum>
+    <Museum_id>https://www.wikidata.org/wiki/Q1043967</Museum_id>
+    <Museum_address>4400 Forbes Ave, Pittsburgh, PA 15213,USA</Museum_address>
+    <lng>-79.9495881</lng>
+    <lat>40.4435041</lat>
+  </row>
+  <row>
+    <id>cmoa:things/f09a85ed-e09f-4c2d-a7e6-66281be42476</id>
+    <title>Minotaure No. 1</title>
+    <full_name>Pablo Picasso</full_name>
+    <Wikidata_iD>https://www.wikidata.org/wiki/Q5593</Wikidata_iD>
+    <creation_date_earliest>1933</creation_date_earliest>
+    <creation_date_latest>1933</creation_date_latest>
+    <creation_place>Cannes</creation_place>
+    <date_acquired>2015-09-17</date_acquired>
+    <department>Fine Arts</department>
+    <medium>printed magazine</medium>
+    <credit_line>Leisser Art Fund</credit_line>
+    <web_url>"http://www.cmoa.org/CollectionDetail.aspx?item=108230</web_url>
+    <classification>Book</classification>
+    <provenance_text>Ursus Rare Books, Ltd. to CMOA, April 2015</provenance_text>
+    <provenance_location>New York</provenance_location>
+    <geonames_provenance_id>http://sws.geonames.org/5128638</geonames_provenance_id>
+    <longitude_geonames>-75.4999</longitude_geonames>
+    <latitude_geonames>43.00035</latitude_geonames>
+    <Museum>Carnegie Museum of Art</Museum>
+    <Museum_id>https://www.wikidata.org/wiki/Q1043967</Museum_id>
+    <Museum_address>4400 Forbes Ave, Pittsburgh, PA 15213,USA</Museum_address>
+    <lng>-79.9495881</lng>
+    <lat>40.4435041</lat>
+  </row>
+</root>
